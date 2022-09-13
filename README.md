@@ -1,0 +1,4 @@
+# DockerSeleniumGrid
+
+
+docker-compose up
